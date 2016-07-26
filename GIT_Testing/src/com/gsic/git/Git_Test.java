@@ -7,7 +7,7 @@ public class Git_Test {
 
 		SOAB_Print soab = new SOAB_Print();
 		soab.print();
-		printNames("Gary Li");
+		printNames("Gary Li; Paul");
 		
 	}
 	
